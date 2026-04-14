@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<title>Verification - Al-Mahfal 18</title>
+
+<style>
+body{
+font-family:Arial;
+background:#f5f7ff;
+text-align:center;
+padding:40px;
+}
+
+.card{
+background:white;
+padding:30px;
+width:420px;
+margin:auto;
+border-radius:15px;
+box-shadow:0 0 20px rgba(0,0,0,0.1);
+border-top:5px solid #0b3d91;
+}
+
+h2{
+color:#0b3d91;
+margin-bottom:15px;
+}
+
+.label{
+font-weight:bold;
+color:#0b3d91;
+}
+
+.status{
+margin-top:20px;
+padding:10px;
+background:#e8fff0;
+color:green;
+font-weight:bold;
+border-radius:8px;
+}
+</style>
+</head>
+
+<body>
+
+<div class="card">
+
+<h2>المحفل العلمي الدولي الثامن عشر</h2>
+
+<p><span class="label">الاسم:</span> د. أميرة إبراهيم سعد عفيفي علي</p>
+<p><span class="label">التخصص:</span> اللغة الفرنسية وآدابها – الأدب المقارن</p>
+<p><span class="label">الجامعة:</span> جامعة بنها</p>
+<p><span class="label">رقم التسجيل:</span> MAH18-HUM-FR-2026-1847</p>
+
+<div class="status">✔ تم التحقق بنجاح (Verified Participant)</div>
+
+</div>
+
+</body>
+</html>
